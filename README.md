@@ -18,6 +18,9 @@
 -->
  📫 How to reach me:[Twitter - @aminuabdulfatt3](https://twitter.com/aminuabdulfatt3)
 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 ## 🌐 Socials:
