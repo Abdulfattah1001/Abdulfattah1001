@@ -21,11 +21,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Other             27 mins         ██████████░░░░░░░░░░░░░░░   40.00 %
-Java              20 mins         ███████▓░░░░░░░░░░░░░░░░░   30.83 %
-Groovy            11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
-Java Properties   6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
-Batchfile         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
