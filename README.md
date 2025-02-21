@@ -21,9 +21,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 37 mins    ███████████████▒░░░░░░░░░   60.92 %
-Other             59 mins         █████████▒░░░░░░░░░░░░░░░   36.84 %
-Java Properties   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Java              2 hrs 50 mins   █████████████████▓░░░░░░░   70.97 %
+Other             1 hr 4 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
+Java Properties   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
