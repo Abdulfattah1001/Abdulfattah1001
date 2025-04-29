@@ -21,7 +21,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java         3 hrs 5 mins    ████████████████████░░░░░   79.67 %
+SQL          22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Kotlin       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+CSS          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+TypeScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
