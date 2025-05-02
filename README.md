@@ -1,4 +1,4 @@
-## Hi there it's your fav Deveolper but you can call me Dr Eng Abdulfattah A.K.A Abdulfattah1001👋
+## Hi there it's your fav Deveolper Abdulfattah1001👋
 
 <!--
 **Abdulfattah1001/Abdulfattah1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
