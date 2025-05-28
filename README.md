@@ -21,11 +21,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Java                18 hrs 43 mins  █████████████▓░░░░░░░░░░░   54.86 %
-Kotlin              7 hrs 57 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.32 %
-JavaScript          6 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   19.35 %
-Gradle Kotlin DSL   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-XML                 17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Java                18 hrs 44 mins  █████████████▒░░░░░░░░░░░   53.52 %
+Kotlin              9 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
+JavaScript          5 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+XML                 41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Gradle Kotlin DSL   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
