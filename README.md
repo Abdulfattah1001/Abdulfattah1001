@@ -21,11 +21,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Markdown               45 mins         █████████████▓░░░░░░░░░░░   54.36 %
-Java                   19 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
-Git Config             7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-XML                    7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Kotlin                 2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
