@@ -21,11 +21,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Java                   18 hrs 15 mins  ██████████████▒░░░░░░░░░░   56.78 %
-Kotlin                 5 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-TypeScript             4 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
-Prolog                 1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-XML                    1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Java                   25 hrs 33 mins  ██████████████████░░░░░░░   71.59 %
+Kotlin                 6 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
+Prolog                 1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+TypeScript             39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Shrinker Config File   32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
