@@ -21,11 +21,11 @@
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        9 hrs 17 mins   ████████████▒░░░░░░░░░░░░   48.83 %
-Kotlin            5 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   31.27 %
-Java              3 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-Bash              6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Protocol Buffer   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JavaScript        7 hrs 4 mins    ███████████▒░░░░░░░░░░░░░   44.79 %
+Kotlin            5 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   32.50 %
+Java              3 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
+Bash              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Protocol Buffer   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
