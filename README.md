@@ -21,11 +21,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Java              15 hrs 4 mins         ██████████████░░░░░░░░░░░   55.35 %
-Kotlin            10 hrs 55 mins        ██████████░░░░░░░░░░░░░░░   40.10 %
-JavaScript        1 hr 4 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-Protocol Buffer   7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-XML               1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java         11 hrs 16 mins        ████████████████▓░░░░░░░░   66.97 %
+Kotlin       4 hrs 28 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
+JavaScript   1 hr 4 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 ```
 
 <!--END_SECTION:waka-->
