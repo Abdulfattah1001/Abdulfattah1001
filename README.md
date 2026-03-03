@@ -21,9 +21,9 @@
  <!--START_SECTION:waka-->
 
 ```txt
-Java         11 hrs 16 mins        ████████████████▓░░░░░░░░   66.97 %
-Kotlin       4 hrs 28 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
-JavaScript   1 hr 4 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Java         9 hrs 6 mins          ███████████████▓░░░░░░░░░   62.96 %
+Kotlin       4 hrs 49 mins         ████████▒░░░░░░░░░░░░░░░░   33.39 %
+JavaScript   31 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->
