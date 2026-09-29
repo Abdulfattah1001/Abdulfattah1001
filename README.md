@@ -1,22 +1,269 @@
-## Hi there it's your fav Deveolper Abdulfattah1001👋
+<div align="center">
 
-<!--
-**Abdulfattah1001/Abdulfattah1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+# ABDULFATTAH
 
-<!--Here are some ideas to get you started:-->
+### Founder · Software Engineer · Systems Builder
 
-- 🔭 I’m currently working on a project Stream a personal mobile network applications...
-- 🌱 I’m currently learning Networking, Embedded systems and Robotic...
-- 👯 I’m looking to collaborate on Open Source project, Or simply put Project...
-- 🤔 I’m looking for help with  Sponsorship and Internship...
-- 💬 Ask me about Java, Golang and C++...
-- 
+<a href="https://omnyrex.com">
+  <img src="https://img.shields.io/badge/Building-OMNYREX-000000?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://github.com/Abdulfattah1001">
+  <img src="https://img.shields.io/badge/GitHub-Abdulfattah1001-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<!--  ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 📫 How to reach me:[Twitter - @aminuabdulfatt3](https://twitter.com/aminuabdulfatt3)
+<br />
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+Omnyrex.;Engineering+distributed+systems.;Designing+secure+communication+infrastructure.;Exploring+AI%2C+robotics+%26+the+future+of+digital+infrastructure."
+  alt="Typing animation"
+/>
+
+</div>
+
+---
+
+## About
+
+I'm a **software engineer and founder** building systems, infrastructure, and products designed for the next generation of the internet.
+
+My primary focus is **[Omnyrex](https://omnyrex.com)** — a technology company building digital infrastructure and intelligent platforms across communication, commerce, social platforms, AI, robotics, and software infrastructure.
+
+I work across the stack, from **system architecture and backend infrastructure to mobile applications, security, networking, and product engineering.**
+
+I enjoy problems where the difficult part isn't writing the code.
+
+It's designing the **system behind the code.**
+
+---
+
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Omnyrex
+
+A technology company building foundational digital infrastructure and platforms for the modern internet economy.
+
+**Focus**
+
+`Communication` · `Commerce` · `Social` · `AI` · `Robotics` · `Infrastructure`
+
+<a href="https://omnyrex.com">
+<img src="https://img.shields.io/badge/Explore-Omnyrex-ffffff?style=flat-square&logoColor=black" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Omnyrex Messaging
+
+Secure communication infrastructure designed around privacy, performance, and resilient message delivery.
+
+**Engineering**
+
+`E2EE` · `Signal Protocol` · `Real-time Systems` · `Offline Systems`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Omnyrex Social
+
+A social platform built as part of the broader Omnyrex ecosystem.
+
+**Engineering**
+
+`Mobile` · `Backend` · `Distributed Data` · `Real-time Interaction`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Future Systems
+
+Research and engineering across:
+
+`AI` · `LLMs` · `P2P` · `Networking` · `Robotics` · `Embedded Systems`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Engineering
+
+I don't try to collect technologies.
+
+I try to understand systems.
+
+### Distributed Systems
+
+Designing services that can communicate, synchronize, recover, and scale without depending on a single point of failure.
+
+### Secure Communication
+
+Working with end-to-end encryption, secure message delivery, identity, and privacy-preserving architectures.
+
+### Offline-First Systems
+
+Exploring architectures where applications remain useful even when connectivity is unreliable.
+
+### Networking
+
+Interested in how devices communicate beyond conventional client-server architectures.
+
+### AI Infrastructure
+
+Exploring LLMs, intelligent software systems, agents, and the infrastructure required to operate them reliably.
+
+### Embedded & Robotics
+
+Building toward the intersection of software, hardware, networking, and autonomous systems.
+
+---
+
+# 🏗️ System Architecture
+
+A simplified view of the kind of ecosystem I'm interested in building:
+
+```mermaid
+flowchart TB
+
+    USER["Users & Devices"]
+
+    CLIENT["Client Applications"]
+
+    COMM["Communication Layer"]
+    SOCIAL["Social Platforms"]
+    COMMERCE["Commerce"]
+    AI["AI / Intelligence"]
+
+    CORE["Omnyrex Core Infrastructure"]
+
+    ID["Identity & Security"]
+    DATA["Distributed Data"]
+    MSG["Messaging Infrastructure"]
+    API["API & Service Layer"]
+
+    NETWORK["Network / P2P Layer"]
+
+    HARDWARE["Embedded Systems / Robotics"]
+
+    USER --> CLIENT
+
+    CLIENT --> COMM
+    CLIENT --> SOCIAL
+    CLIENT --> COMMERCE
+    CLIENT --> AI
+
+    COMM --> CORE
+    SOCIAL --> CORE
+    COMMERCE --> CORE
+    AI --> CORE
+
+    CORE --> ID
+    CORE --> DATA
+    CORE --> MSG
+    CORE --> API
+
+    DATA --> NETWORK
+    MSG --> NETWORK
+
+    NETWORK --> HARDWARE
+```
+
+
+### Long-Term Direction
+
+The long-term goal is not simply to build individual applications.
+
+It is to develop shared digital infrastructure that enables multiple products, services, and platforms to operate as part of a connected ecosystem.
+
+This approach allows capabilities such as identity, communication, data, security, intelligence, and other foundational services to be developed once and extended across multiple products.
+
+---
+
+⚙️ Technology
+
+Languages
+
+- Java
+- Kotlin
+- Go
+- C++
+- JavaScript
+
+Backend & Systems
+
+- Spring
+- REST APIs
+- XMPP
+- WebSockets
+- Distributed Systems
+- Linux
+- Docker
+
+Mobile
+
+- Android
+- Jetpack Compose
+- Room
+- Android Networking
+
+Security & Communication
+
+- Signal Protocol
+- End-to-End Encryption
+- Real-Time Messaging
+- Secure Communication
+- Identity & Authentication
+
+Exploring
+
+- Large Language Models
+- AI Infrastructure
+- Peer-to-Peer Systems
+- Networking
+- ESP32 & Embedded Systems
+- Robotics
+
+---
+
+###  📊 GitHub
+
+I use GitHub primarily as an engineering workspace for building, experimenting, and documenting systems.
+
+
+
+<div align="center"><img
+src="https://github-readme-stats.vercel.app/api?username=Abdulfattah1001&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"
+width="48%"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulfattah1001&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"
+width="42%"
+/>
+
+</div><br><div align="center"><img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulfattah1001&bg_color=00000000&color=aaaaaa&line=ffffff&point=ffffff&area=true&hide_border=true"
+width="95%"
+/>
+
+</div>
+
+---
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aminuabdulfattah) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@aminuabdulfatt3) 
+
+---
 
  <!--START_SECTION:waka-->
 
@@ -31,24 +278,56 @@ Bash         8 mins                ░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aminuabdulfattah) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@aminuabdulfatt3) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdulfattah1001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Abdulfattah1001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulfattah1001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdulfattah1001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+# 🔬 Areas of Exploration
+
+My current engineering interests span several interconnected areas:
+
+## Distributed Systems
+
+Designing systems that can operate across multiple services, devices, and environments while maintaining reliability and consistency.
+
+## Secure Communication
+
+Exploring privacy-preserving communication systems, end-to-end encryption, secure identity, and resilient message delivery.
+
+### Offline & Peer-to-Peer Systems
+
+Investigating architectures that allow applications and devices to communicate and remain useful when traditional network connectivity is limited.
+
+## Intelligent Software
+
+Exploring how AI can become an integral part of software platforms, rather than functioning only as a standalone interface.
+
+## AI & LLM Infrastructure
+
+Studying the systems, architectures, and infrastructure required to build reliable intelligent applications around modern language models.
+
+## Embedded Systems
+
+Working with microcontrollers, networking, sensors, and hardware to understand the intersection between software and physical systems.
+
+## Robotics
+
+Exploring autonomous systems where software, intelligence, hardware, and real-world interaction converge.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdulfattah1001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧩 The Bigger Picture
+
+These areas are not isolated interests.
+
+They represent different layers of a larger engineering direction:
+
+Software → Networks → Intelligence → Hardware → Infrastructure
+
+The long-term objective is to bring these layers together into systems capable of supporting multiple products and services through shared infrastructure.
+
+Omnyrex
+
+Digital Infrastructure · Intelligent Platforms · Communication · Commerce · Social · AI · Robotics
